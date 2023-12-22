@@ -1,3 +1,5 @@
+![abtesting](https://github.com/makeitlearnML/Statistical-Analysis/assets/111907403/98242c6a-adc5-4b53-b518-dc41c3006974)
+
 ### Marketing A/B Testing
 
 What is A/B testing?
