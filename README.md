@@ -3,8 +3,7 @@
 ### Marketing A/B Testing
 
 What is A/B testing?
-A/B testing is a basic randomized control experiment. It is a way to compare the two versions of a variable to find out which performs better in a controlled environment.
-
+A/B testing is a basic randomized control experiment.
 It is a hypothetical testing methodology for making decisions that estimate population parameters based on sample statistics. The population refers to all the customers buying your product, while the sample refers to the number of customers that participated in the test.
 
 Here in our project, a Marketing company want to run successful campaigns, but the market is complex and several options can work. The companies are interested in answering two questions:
